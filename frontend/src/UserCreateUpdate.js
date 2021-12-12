@@ -39,6 +39,7 @@ class UserCreateUpdate extends Component {
         }
         ).then((result)=>{
           alert("User created!");
+          window.location = "/users"
         }).catch(()=>{
           alert('There was an error! Please re-check your form.');
         });

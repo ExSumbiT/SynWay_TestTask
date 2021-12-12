@@ -1,8 +1,0 @@
-venv
-README.md
-.idea
-__pycache__
-
-# dependencies
-frontend/node_modules/
-
